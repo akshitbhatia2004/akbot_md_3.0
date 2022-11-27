@@ -8,7 +8,7 @@
 <br>
 <div>
 
- a href="https://raganork-network.vercel.app/api/deploy-md" target="blank"><img align="center" src="https://i.imgur.com/uNUN7eh.jpeg" alt="Deploy bot" height="112" width="310" /></a>
+ a href="https://raganork.souravkl11.xyz/deploy" target="blank"><img align="center" src="https://i.imgur.com/uNUN7eh.jpeg" alt="Deploy bot" height="112" width="310" /></a>
  <div>
  <br>
 
