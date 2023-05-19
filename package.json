@@ -1,22 +1,22 @@
 {
-  "name": "raganork-md",
+  "name": "akbot_md_3.0",
   "version": "3.0.5",
   "description": "Raganork whatsapp bot- Multi device version.",
-  "main": "./Raganork/index.js",
+  "main": "./akbot_md_3.0/index.js",
   "scripts": {
     "start": "pm2 start . --attach --name Raganork"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/akbot_md_3.0/raganork-md.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Akshit",
+  "developer": "@akshitbhatia2004",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
